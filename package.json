@@ -1,0 +1,13 @@
+{
+  "name": "d-d",
+  "version": "1.0.0",
+  "bin": "./index.js",
+  "dependencies": {
+    "chokidar": "^3.5.1",
+    "esm": "^3.2.25",
+    "ws": "^7.4.4"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
