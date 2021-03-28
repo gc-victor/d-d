@@ -33,6 +33,7 @@ const MIME = config.mime || {
     jpg: 'image/jpeg',
     js: 'text/javascript',
     json: 'application/json',
+    map: 'application/json',
     pdf: 'application/pdf',
     png: 'image/png',
     svg: 'image/svg+xml',
