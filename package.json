@@ -1,5 +1,6 @@
 {
   "name": "d-d",
+  "description": "A tiny development static server with hot reload",
   "version": "1.0.0",
   "bin": "./index.js",
   "dependencies": {
