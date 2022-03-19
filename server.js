@@ -123,5 +123,5 @@ wss.on('connection', function connection(ws) {
 server().listen(port);
 
 console.log('\n');
-console.log(FgCyan, `Server: http://localhost:${port}`);
+console.log(FgCyan, `Server: http://localhost:${port}/index.html`);
 console.log('\n');
