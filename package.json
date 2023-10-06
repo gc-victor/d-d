@@ -2,6 +2,7 @@
   "name": "d-d",
   "description": "A tiny development static server with hot reload",
   "version": "1.0.0",
+  "type": "module",
   "bin": "./index.js",
   "dependencies": {
     "chokidar": "^3.5.1",
